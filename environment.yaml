@@ -1,0 +1,9 @@
+name: r-data-analysis
+channels:
+  - conda-forge
+  - anaconda
+  - r
+  - defaults
+dependencies:
+  - conda-forge::r-base
+  - r::rstudio
